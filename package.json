@@ -1,0 +1,26 @@
+{
+  "name": "purescript-pux-undo-ex",
+  "version": "1.0.0",
+  "description": "I mean, should I?",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsonsmatt/purescript-pux-undo-ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parsonsmatt/purescript-pux-undo-ex/issues"
+  },
+  "homepage": "https://github.com/parsonsmatt/purescript-pux-undo-ex#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
